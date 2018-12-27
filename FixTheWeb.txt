@@ -1,0 +1,211 @@
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!
+!!!!!!!!!!!!        !!!!!!!!!!!!
+!!!!!!!!!!!! Social !!!!!!!!!!!!
+!!!!!!!!!!!!        !!!!!!!!!!!!
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~!
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! Twitter
+!!!!!!!!!!!!
+
+! Twitter - copyright box
+twitter.com##.roaming-module.module.Footer > div.flex-module:nth-of-type(1)
+
+! Twitter - 'advertise with Twitter'
+twitter.com##.Footer-adsModule.flex-module
+
+! Twitter - trends for you
+twitter.com##.trends.Trends.module
+
+
+
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~!
+!!!!!!!!!!!!      !!!!!!!!!!!!
+!!!!!!!!!!!! News !!!!!!!!!!!!
+!!!!!!!!!!!!      !!!!!!!!!!!!
+!~~~~~~~~~~~~~~~~~~~~~~~~~~~~!
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! Medium
+!!!!!!!!!!!!
+
+
+! Medium - 'never miss a story from...' footer
+medium.com##.js-stickyFooter.u-xs-paddingRight10.u-xs-paddingLeft10.u-zIndexMetabar.u-paddingBottom10.u-paddingTop10.u-borderBox.u-boxShadowTop.u-backgroundWhite.u-width100pct.u-bottom0.u-fixed
+
+! Medium - share widget
+medium.com##.u-transition--fadeIn300.u-fixed.js-postShareWidget.u-sm-hide.u-top0.u-foreground > ul
+
+! FreeCodeCamp - cookie notice
+medium.freecodecamp.org##.butterBar-message
+
+! Medium - cookie notice
+medium.com##.butterBar-message
+
+! Medium - subscription prompt
+medium.com##.js-meterBanner.u-bottom0.u-borderBottomLightest.u-boxShadowTop.u-backgroundWhite.u-overflowHidden.u-fixed.u-width100pct.postMeterBar
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! Politico
+!!!!!!!!!!!!
+
+
+! Politico - cookie notice
+www.politico.com##.cookie-modal__inner
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! Guardian
+!!!!!!!!!!!!
+
+
+! Guardian - cookie notice
+www.theguardian.com##.site-message--permanent.site-message--first-pv-consent.site-message--banner.js-site-message.site-message
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! Bloomberg
+!!!!!!!!!!!!
+
+! Bloomberg - remaining articles notice
+www.bloomberg.com###paywall-banner
+
+! Bloomberg - subscription header
+www.bloomberg.com##.bb-that
+
+! Bloomberg - footer
+www.bloomberg.com##.bb-global-footer
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! The Verge
+!!!!!!!!!!!!
+
+! The Verge - Most Read
+www.theverge.com##.c-rock-list__body
+
+! The Verge - Most Read (title)
+www.theverge.com##.c-rock-list__title.p-rock-head
+
+! The Verge - newsletter signup
+www.theverge.com###newsletter-signup-short-form
+
+! The Verge - whitelist request
+www.theverge.com##.adblock-whitelist-messaging__article-wrapper
+
+! The Verge - footer
+www.theverge.com##.c-footer
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! Vox
+!!!!!!!!!!!!
+
+! Vox - whitelist request
+||cdn.concert.io/lib/adblock/vox.html$subdocument
+
+! Vox - Most read stories sidebar
+www.vox.com##.c-rock-list__items
+
+! Vox - Most read stories title
+www.vox.com##.c-rock-list__title.p-rock-head
+
+! Vox - Newsletter signup
+www.vox.com###newsletter-signup-short-form
+
+! Vox - footer
+www.vox.com##.c-footer
+
+! Vox - sharing header
+www.vox.com##.tab-bar-fixed.c-tab-bar
+
+! Vox - whitelist request wrapper
+www.vox.com##.adblock-whitelist-messaging__wrapper
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! New Yorker
+!!!!!!!!!!!!
+
+! New Yorker - sidebar
+www.newyorker.com##.Layout__sidebar___2GcEE
+
+! New Yorker - social sharing widget
+www.newyorker.com##.Layout__social___jaQeD
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! Wired
+!!!!!!!!!!!!
+
+! Wired - remaining free articles notice
+www.wired.com##.close-container
+
+! Wired - subscribe now button
+www.wired.com##.subscribe-button.hide-medium-down
+
+! Wired - social sharing widget
+www.wired.com##.social-share-sidebar-component
+
+! Wired - popular articles
+www.wired.com##.post-listing-component__wrapper
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! BBC News
+!!!!!!!!!!!!
+
+! BBC News - cookies notice
+www.bbc.co.uk###bbccookies
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! Techmeme
+!!!!!!!!!!!!
+
+! Techmeme - Sponsored posts
+www.techmeme.com###sponsorposts
+
+! Techmeme - Hiring
+www.techmeme.com###hiring
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! Memeorandum
+!!!!!!!!!!!!
+
+! Memeorandum - Sponsored job board
+www.memeorandum.com###hiring
+
+
+
+!!!!!!!!!!!!
+!!!!!!!!!!!! The Economist
+!!!!!!!!!!!!
+
+! Economist - subscribe footer
+www.economist.com##.ribbon__header
+
+! Economist - subscribe footer 2
+||www.economist.com/sites/default/files/imagecache/400-width/cover-premia-free-notebook-december-2018.png$image
+
+! Economist - subscribe footer 3
+www.economist.com##.ribbon__body-slider-content
+
+! Economist - subscribe popup
+www.economist.com##.exit-pop
+
