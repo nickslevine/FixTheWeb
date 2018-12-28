@@ -6,13 +6,14 @@ FixTheWeb blocks the annoying parts of websites overlooked by ad blockers and po
 
 1. Install uBlock Origin for [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) or [Safari](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3). 
 
-2. Navigate to the uBlock Origin dashboard. 
+2. Navigate to the uBlock Origin dashboard by clicking the uBlock icon and selecting the settings button on the right.  
 
 3. Select the 'My filters' tab. 
 
 4. Download [FixTheWeb.txt](https://raw.githubusercontent.com/nickslevine/FixTheWeb/master/FixTheWeb.txt) or copy its contents. 
 
 5. Add FixTheWeb.txt to your uBlock filters in the 'My filters' tab by pasting the contents into the box or clicking "Import and append" and selecting the FixTheWeb.txt file. 
+
 
 
 ## To Customize
